@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Rename model_id to model.id (#8447)
