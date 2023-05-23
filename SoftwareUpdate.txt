@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add estimate_speed(region_color) parameter (#8285)
